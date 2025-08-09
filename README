@@ -1,0 +1,47 @@
+🧾 Daily Expenses Tracker
+Daily Expenses Tracker is a simple Python program that helps you track your daily purchases and total spending.
+The program asks for your name, age, items you bought, and their prices, then calculates the total cost.
+
+✨ Features
+📝 Takes user name and age as input.
+
+📦 Lets you add multiple items with prices.
+
+💵 Calculates total spending.
+
+⚠️ Includes error handling for invalid inputs.
+
+🚀 How to Run
+Make sure you have Python 3 installed.
+
+Save the file as daily_expenses_tracker.py.
+
+Open your terminal or command prompt.
+
+Run:
+
+bash
+Kopyala
+Düzenle
+python daily_expenses_tracker.py
+📌 Example Usage
+mathematica
+Kopyala
+Düzenle
+Please enter your name: Alice
+Please enter your age: 22
+
+Hello Alice, you are 22 years old. Welcome to your Daily Expenses Tracker!
+
+Enter the item you bought today (Or type 'done' to finish): Coffee
+How much did the Coffee cost? 3.50
+Enter the item you bought today (Or type 'done' to finish): Book
+How much did the Book cost? 12.00
+Enter the item you bought today (Or type 'done' to finish): done
+
+--------------------YOUR SUMMARY--------------------
+Today you bought:
+- Coffee: 3.50 dollars
+- Book: 12.00 dollars
+
+Total spent: 15.50 dollars. Great job tracking, Alice!
